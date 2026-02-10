@@ -1,0 +1,45 @@
+About the job
+About Gusto
+
+At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff—like payroll, health insurance, 401(k)s, and HR—so owners can focus on their craft and customers. With teams in Denver, San Francisco, and New York, we’re proud to support more than 400,000 small businesses across the country, and we’re building a workplace that represents and celebrates the customers we serve. Learn more about our Total Rewards philosophy.
+
+About The Role
+
+As a Staff Software Engineer on the Benefits Advisory team, you will drive key architectural improvements to Gusto's benefits platform as we transition to an AI-native company. This is a full-stack role where you will design and build platform capabilities that enable customers to explore, apply for, and maintain their benefits within your product area.
+
+Your work will focus on transforming our benefits opportunity, shopping and renewal flows, creating clear system boundaries that enable efficient reuse and increased scalability, allowing the ability to offer a wider variety of products more quickly. You will design services that continue to scale the organization while enabling novel AI-driven interfaces to deliver a delightful benefits shopping experience.
+
+You’ll operate at the intersection of marketing, sales, and engineering. If you are passionate about building highly scalable systems that can reason, predict, and personalize to unlock Gusto Benefits’ next phase of sustainable growth, we’d love to have you join our team.
+
+About The Team
+
+The Benefits Advisory team is building the next generation of infrastructure that powers benefits applications, making it easier than ever to give customers access to the absolute best benefits for their needs.
+
+Our mission is to build a robust system that informs our customers of the most relevant benefits options, making it easier than ever to confidently fulfill benefits that fit our customers current and future needs.. We’re building a world-class technology platform designed to understand customer context in real-time, and continuously improve through data and feedback. This means rapid experimentation, fast learning, and strong cross-functional partnership.
+
+We prioritize quality, observability, and uptime because these intelligent systems are fundamental to Gusto's growth and brand. We partner closely with Marketing, Sales, and Operations to build and connect the AI-powered tools they use every day.
+
+Here’s What We're Looking For:
+
+Architect and evolve our customer-facing web platforms with a focus on scale, performance, and AI-driven personalization
+Design, build, and maintain shared services to enable rapid iteration on product offerings
+Implement and optimize key workflows for a best-in-class customer experience.
+Write high-quality, well-tested code across the stack, leveraging AI-powered tools to accelerate development and improve reliability
+Support, mentor, and up-level fellow engineers on the team, helping to establish best practices for AI-native design patterns.
+Partner cross-functionally with Marketing, Sales, Operations and leadership to translate business needs into technical solutions that fit our needs now and in the future.
+Contribute to the technical roadmap for your area of the Benefits Advisory platform, ensuring your work aligns with Gusto's AI-native strategy and team goals
+
+Here’s What We're Looking For:
+
+8+ years of experience building scalable full-stack web applications with expertise in both frontend (React, TypeScript) and backend (API development, data modeling)
+Experience applying AI tools to accelerate full-stack development, improve code quality, and build intelligent user experiences. Familiar with AI-driven personalization patterns and willing to experiment with AI techniques to improve the benefits shopping experience
+Deep experience building modern and accessible frontend applications with technologies such as React, TypeScript, and Next.js.
+Deep experience with backend API development, data modeling and database design
+Deep experience in CI/CD and observability.
+Ability to act as a thought partner for both technical (Engineering, AI/Data) and business (Sales, Operations) teams.
+A balance of pragmatic execution and long-term architectural thinking to build a scalable, intelligent platform.
+Experience enabling productivity across large engineering organizations.
+Nice to have:
+Hands-on experience designing or implementing product experiences incorporating ML/AI, such as AI-driven personalization engines, recommendation systems, or predictive intent models.
+Experience with generative AI or LLMs, particularly in applications related to content personalization (for a CMS) or building intelligent customer-facing agents.
+Familiarity with building in React and Ruby on Rails
