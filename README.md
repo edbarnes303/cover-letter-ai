@@ -18,11 +18,11 @@ export OPENAI_API_KEY="your-key-here"
 
 Place the following files in the `context/` directory:
 
-| File | Description |
-|---|---|
-| `resume.md` | Your resume in Markdown format |
-| `job_description.txt` | Default job description (used when no URL is provided) |
-| `example_*.md` | Example application packages (job description + cover letter) used for tone and format matching |
+| File                  | Description                                                                                     |
+| --------------------- | ----------------------------------------------------------------------------------------------- |
+| `resume.md`           | Your resume in Markdown format                                                                  |
+| `job_description.txt` | Default job description (used when no URL is provided)                                          |
+| `example_*.md`        | Example application packages (job description + cover letter) used for tone and format matching |
 
 ## Usage
 
@@ -40,10 +40,10 @@ python generate_cover.py
 
 ### Options
 
-| Flag | Description |
-|---|---|
-| `-o`, `--output-dir` | Directory to save the PDF (default: current directory) |
-| `-p`, `--custom-prompt` | Custom instruction to append to the generation prompt |
+| Flag                    | Description                                            |
+| ----------------------- | ------------------------------------------------------ |
+| `-o`, `--output-dir`    | Directory to save the PDF (default: current directory) |
+| `-p`, `--custom-prompt` | Custom instruction to append to the generation prompt  |
 
 ### Examples
 
