@@ -1,13 +1,12 @@
-# Application Package: Senior Software Engineer — Inview
+# Application Package: Senior Software Engineer — Savant
 
 ## Metadata
 
 - **Candidate Name:** Ed Barnes
 - **Target Role:** Senior Software Engineer
-- **Company:** Inview
+- **Company:** Savant
 - **Employment Type:** Full-time
-- **Primary Locations:** Denver, CO; New York, NY (Remote-friendly)
-- **Primary Focus:** Cloud-Native & Distributed Systems, AI Production Platforms
+- **Primary Focus:** Platform Scalability, Distributed Systems, Microservices
 
 ---
 
@@ -15,62 +14,66 @@
 
 ### Company Overview
 
-Inview is a healthcare company transforming how heart disease is diagnosed, treated, and tracked through value-based, AI-driven precision diagnostic solutions. Founded in 2017 by a leading cardiologist, Inview combines medical expertise with advanced technology to establish a new standard of care focused on preventing heart attacks.
-
-The company’s technology enables comprehensive quantification and characterization of atherosclerosis across heart arteries, supported by more than a decade of large-scale clinical trials. Inview operates as a mostly remote organization, with offices in Denver, New York, Dallas, and Lisbon, and collaborates using tools such as Google Workspace, Slack, Confluence/Jira, and Zoom.
+Savant is the data collaboration platform trusted for healthcare. Guided by its mission to make the world's health data secure, accessible, and actionable, it provides critical data solutions for organizations across the healthcare ecosystem — including providers, health plans, researchers, and life sciences companies. From fulfilling a single patient's request for their medical records to powering the AI revolution in healthcare, Savanters are building the future of how data is connected and used to improve health.
 
 ---
 
 ### Role Overview
 
-Inview is seeking a Senior Software Engineer to drive key technical initiatives across its computational imaging pipeline. This role owns the systems responsible for deploying, scaling, and monitoring regulated AI algorithms end to end. The engineer will influence system architecture, ensure solutions meet medical standards for quality and performance, mentor other engineers, and help shape Inview’s technical culture.
-
----
-
-### Team Overview
-
-You will join the Computational Imaging team, responsible for building sophisticated algorithms and supporting systems that enhance medical imaging quality and clinical value. The team develops software components that correct artifacts, standardize data, and ensure precision prior to final analysis—work that is critical to the reliability and accuracy of Inview’s regulated products.
+As a Senior Software Engineer, you will lead major initiatives that advance Savant's platform scalability and reliability. You'll drive technical design, coach peers, and ensure system-wide quality and consistency.
 
 ---
 
 ### Responsibilities
 
-- Design, build, and deploy scalable AI services and computational imaging pipelines to production.
-- Architect high-availability infrastructure supporting regulated machine learning algorithms.
-- Make pragmatic architectural trade-offs balancing performance, security, and maintainability.
-- Own full lifecycle delivery of complex features, from design and API development to post-release observability.
-- Ensure strong observability through logging, alerting, dashboards, and incident response practices.
-- Set and uphold engineering standards through code reviews, mentorship, and design documentation.
-- Lead technical design reviews and system decomposition across teams.
-- Identify risks in operational or architectural resilience and drive durable improvements.
-- Collaborate across AI and engineering teams to reduce knowledge silos via documentation and cross-training.
-- Design and implement robust testing and validation strategies aligned with quality and regulatory standards.
-- Contribute to technical documentation required for regulatory submissions.
+- Own architectural design and end-to-end delivery for key systems or migrations.
+- Partner with Product, Infrastructure, and Security teams to set technical direction.
+- Design scalable microservices and guide system decomposition initiatives.
+- Drive performance optimization, observability, and reliability improvements.
+- Mentor engineers at multiple levels and enhance team culture through best practices.
+
+---
+
+### Tech Stack
+
+- **Backend:** Python, Go, Java; microservices; REST and GraphQL
+- **Frontend:** TypeScript, React, Next.js
+- **Infrastructure & Cloud:** AWS (EC2, S3, IAM, Lambda), Docker, Kubernetes; IaC tools
+- **Data:** Snowflake, Spark, SQL; S3 for raw data
+- **ETL & Pipelines:** Airflow/Glue
+- **Streaming:** Kafka or Kinesis
+- **Observability:** DataDog, Grafana, CloudWatch
+- **Security:** OAuth2/SAML, encryption, tokenization, zero-trust architecture
 
 ---
 
 ### Required Qualifications
 
-- Bachelor’s or Master’s degree in Computer Science, Software Engineering, or related field (or equivalent experience).
-- 8–12 years of software engineering experience.
-- Experience building AI production systems (e.g., Python, PyTorch).
-- Experience with data services such as SQL, PostgreSQL, NoSQL, Redis, or similar technologies.
-- Demonstrated ability to design, implement, and secure RESTful web services.
-- Experience with MLOps orchestration and cloud deployment using Docker and Kubernetes.
-- Hands-on experience with AWS, GitHub, and CI pipelines.
-- Proven track record delivering scalable, production-grade systems.
-- Experience mentoring engineers and raising technical standards.
-- Strong systems thinking with the ability to evaluate trade-offs in scalability, reliability, and maintainability.
-- Experience designing for observability and operational excellence.
-- Comfort operating in ambiguous environments and driving clarity across stakeholders.
+- 6+ years of professional experience developing and scaling distributed systems.
+- Deep expertise in system design, cloud-native architectures, and backend frameworks.
+- Proven record of leading major technical projects from inception to launch.
+- Strong collaboration with cross-functional teams (Product, Design, Infrastructure, Security).
+- Commitment to data integrity, privacy, and operational excellence.
 
 ---
 
-### Preferred Qualifications
+### Leadership Qualities & Mindset
 
-- Experience designing and optimizing end-to-end medical imaging pipelines.
-- Familiarity with HIPAA and HITRUST security requirements.
-- Hands-on experience with computer vision and deep learning techniques for medical imaging.
+- Provides architectural leadership and technical clarity. Identifies systemic issues and drives cross-team solutions.
+- Inspires confidence through technical expertise and builds talent through thoughtful mentorship.
+- Balances innovation with pragmatic execution and long-term maintainability.
+- Acts with humility, integrity, and focus on team success.
+- Drives alignment between engineering goals and business outcomes.
+
+---
+
+### Core Value Expectations
+
+- Earn trust through high-quality architectural decisions and transparent leadership.
+- Obsess over customers by prioritizing reliable, secure, scalable systems.
+- Prioritize growth over comfort by tackling complex, ambiguous technical challenges.
+- Win as a team by facilitating alignment and resolving cross-team challenges.
+- Rise to the challenge by owning key initiatives and elevating organizational excellence.
 
 ---
 
@@ -78,17 +81,17 @@ You will join the Computational Imaging team, responsible for building sophistic
 
 ### Salutation
 
-Dear Inview Hiring Team,
+Dear Savant Hiring Team,
 
 ### Body
 
-I am excited to apply for the Software Engineering role at Inview. I bring over twenty years of experience building scalable distributed systems, with deep specialization in AWS, serverless architecture, and cloud-native platforms.
+I am writing to apply for the Senior Software Engineer role at Savant. Your mission to make health data secure, accessible, and actionable strongly aligns with my background building cloud-native platforms and distributed systems where reliability, privacy, and operational discipline are non-negotiable.
 
-Currently, as Staff Engineer at Intelligems, I design and deliver core product features using a modern TypeScript serverless stack on AWS, architect APIs and infrastructure with SST, and serve as a technical escalation point for critical customer integrations. Previously, as Principal Engineer at Anuvi and Architect / Principal Engineer at Guild Education, I led the design of cloud platforms, introduced company-wide serverless architecture, built CI/CD systems used across dozens of teams, and created frameworks that automatically provisioned GraphQL and REST infrastructure—dramatically improving developer velocity and reliability.
+Across principal and staff engineering roles, I have led architecture and end-to-end delivery for microservice and serverless systems on AWS, with deep hands-on experience in Python, TypeScript, and Java. At Anuvi, I owned core platform architecture including VPC design, relational database infrastructure, API design, and partner data pipelines using AWS services such as Lambda, SQS, S3, RDS/Aurora, and API Gateway. I also built rules-driven APIs to enforce complex compliance requirements, plus monitoring and error-tracking systems to improve reliability and reduce operational risk.
 
-What interests me about Inview is the opportunity to work on technically complex systems where correctness, performance, and reliability directly matter. I am most effective in environments that value strong engineering fundamentals, thoughtful architecture, and building platforms that enable teams to move quickly without sacrificing quality.
+Previously at Guild Education, I helped scale a rapidly growing engineering organization by building serverless applications and CI/CD infrastructure used across multiple teams, including automated testing and promotion and rollback workflows. I also created frameworks that enabled teams to safely and consistently deploy GraphQL and REST endpoints, improving developer velocity while maintaining strong standards for quality and maintainability. Most recently, I delivered core product features in a fully serverless TypeScript stack, strengthened external API contracts through versioning and backwards compatibility, and served as an escalation point for customer-impacting issues.
 
-I would welcome the opportunity to bring that approach to Inview’s engineering team.
+Savant's focus on scalable microservices, observability, and secure data systems is a strong match for how I operate. I would welcome the opportunity to help drive major initiatives, partner closely with Infrastructure and Security, and mentor engineers while raising the bar on reliability and platform consistency.
 
 ### Signature
 
