@@ -50,6 +50,12 @@ that demonstrate the desired format and tone. Each example contains a job descri
 cover letter. Study these examples carefully, then write a new cover letter for the provided resume and
 job description.
 
+If Python, Java, TypeScript, AWS, Lambda or Serverless are mentioned in the job description be sure to 
+reference your experience with those technologies in the cover letter.
+
+If the job description mentions "Nice to haves" or "Preferred qualifications" that are also mentioned
+in the resume, be sure to reference those in the cover letter.
+
 Important: Only treat a role as the candidate's current position if the date range ends with "Present"
 (e.g. "2024 - Present"). A role with two specific years (e.g. "2025 - 2026") is a past role, even if
 the end year is the current year.
